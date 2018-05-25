@@ -1,0 +1,17 @@
+ul li, ol li, p {
+	line-height: 200%;
+}
+
+body {
+	background-color: #e6e6e6;
+	font-family: Georgia;
+
+}
+
+h3 {
+	font-family: Verdana;
+}
+
+.content {
+    max-width: 700px;
+    margin: auto;
